@@ -4,6 +4,8 @@
   - [Official Resources](#official-resources)
   - [Tutorials](#tutorials)
 - [Adapters](#adapters)
+  - [Official Adapters](#official-adapters)
+  - [Community Adapters](#community-adapters)
 - [Clients](#clients)
 - [Importers](#importers)
   - [Official Importers](#official-importers)
