@@ -31,10 +31,15 @@
 
 Adapters are testing framework extensions used to send autotest contents and results of autotest runs to Test IT. Use adapters to run autotests and obtain the test results from any system: IDE, console, CI/CD systems, etc. [Learn more...](https://docs.testit.software/user-guide/avtotesty/zapusk-avtotestov-s-pomoshyu-klientskikh-bibliotek)
  
+### Official Adapters
 
 - 🧪 [@testit/adapters-java](https://github.com/testit-tms/adapters-java): Adapter for integration with Java testing frameworks.
 - 🧪 [@testit/adapters-python](https://github.com/testit-tms/adapters-python): Adapter for integration with Python testing frameworks.
 - 🧪 [@testit/adapters-js](https://github.com/testit-tms/adapters-js): Adapter for integration with JavaScript testing frameworks.
+
+### Community Adapters
+
+- 🧪 [@alexmorez/codeceptjs-testit-reporter](https://github.com/alexmorez/codeceptjs-testit-reporter): Adapter for integration with Codecept testing frameworks.
 
 ## Clients
 
